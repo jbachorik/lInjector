@@ -1,0 +1,2 @@
+Premain-Class: test.injector.Agent
+Can-Redefine-Classes: True
